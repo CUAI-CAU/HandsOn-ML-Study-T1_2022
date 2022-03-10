@@ -1,4 +1,4 @@
-# ✈️Machine Travelers✈️
+# ✈️Machine Learning Travelers✈️
 
 ## Purpose 
 <h3> To win Kaggle Medal!!🏅🏅🏅 <h3/>
