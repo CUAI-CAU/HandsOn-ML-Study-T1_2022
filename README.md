@@ -39,3 +39,5 @@
 
 - [ELICE](elice.io)
 - [Hands-On Machine Learning](https://github.com/ageron/handson-ml2)
+- [ELICE CUAI](https://accounts.elice.io/accounts/signin/me?continue_to=https%3A%2F%2Fcuai.elice.io%2Fexplore&lang=ko&org=cuai) 
+- [Hands-On Machine Learning 한국어](https://github.com/rickiepark/handson-ml)
