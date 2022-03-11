@@ -1,7 +1,7 @@
 # ✈️Machine Learning Travelers✈️
 
 ## Purpose 
-```Kaggle``` 👑Grand Master 👑
+```Kaggle``` 👑 Grand Master 👑
 
 
 ## 👨‍👩‍👧‍👦 Contributor
@@ -28,6 +28,14 @@
 |Week10||   |
 |Week11||  |
 
+## ⚙ Team Rule
+- 각자 정해진 커리큘럼에 맞춰 공부를 해온다.
+- 한 주에 한명씩 돌아가면서 발표를 맡는다.
+- 발표자의 코드를 보면서, 코드리뷰를 해준다.
+- 질문이나 이슈가 생긴 경우, Issue에 공유한다.
+<hr>
+
 ## References
+
 - [ELICE](elice.io)
 - [Hands-On Machine Learning](https://github.com/ageron/handson-ml2)
