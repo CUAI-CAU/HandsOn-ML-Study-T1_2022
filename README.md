@@ -20,7 +20,7 @@
 |Week2|22.3.19| Chapter2 : Machine Learning basic| 하은
 |Week3|22.3.26| Chapter3 : Classifier using MNIST| 정우
 |Week4|22.4.4|Chapter4 : Regression| 승욱
-|Week5||  |
+|Week5|22.5.1|Chapter5 : SVM |윤한| 
 |Week6||   |
 |Week7||   |
 |Week8||    |
