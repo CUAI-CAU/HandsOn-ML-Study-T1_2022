@@ -34,7 +34,8 @@
 - 발표자의 코드를 보면서, 코드리뷰를 해준다.
 - 질문이나 이슈가 생긴 경우, Issue에 공유한다. 
 <br /> 
-![MTsStudy](https://user-images.githubusercontent.com/62808393/157808263-4f4f311b-86bd-486a-a2e1-9623dce62753.png) 
+  
+![Untitled](https://user-images.githubusercontent.com/62808393/168379104-fbd67ece-cd71-4d52-a3b7-9a44170c6520.png)
 
 <hr>
 
