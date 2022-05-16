@@ -22,7 +22,7 @@
 |Week4|22.4.4|Chapter4 : Regression| 승욱
 |Week5|22.5.1|Chapter5 : SVM |윤한| 
 |Week6|22.5.8|Chapter6 : Decision Tree|하은|
-|Week7|22.16|Chapter7 : Ensemble   |정우|
+|Week7|22.5.16|Chapter7 : Ensemble   |정우|
 |Week8||    |
 |Week9||   |
 |Week10||   |
